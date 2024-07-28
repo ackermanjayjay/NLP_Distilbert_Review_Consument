@@ -1,0 +1,4 @@
+deploy_nlp 
+.mypy_cache
+__pycache__
+content/Multitext_Classification_colab
